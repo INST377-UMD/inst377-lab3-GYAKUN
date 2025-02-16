@@ -3,4 +3,4 @@
 
 # Name: Gleb Yakunin
 
-# Comments: 
+# Comments: Lab3HTML is the html file and Lab3CSS is the stylesheet
